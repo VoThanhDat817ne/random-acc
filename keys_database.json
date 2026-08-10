@@ -1,0 +1,32 @@
+{
+    "NONREGB822": {
+        "type": "admin",
+        "owner": "Thành Đạt",
+        "days": 999,
+        "status": "Active"
+    },
+    "USERVIP123": {
+        "type": "user",
+        "owner": "Thành viên mẫu",
+        "days": 30,
+        "status": "Active"
+    },
+    "coNI": {
+        "type": "user",
+        "owner": "Cô Ni",
+        "days": 30,
+        "status": "Active"
+    },
+    "Niko": {
+        "type": "user",
+        "owner": "NIKA",
+        "days": 30,
+        "status": "Active"
+    },
+    "Wasaka": {
+        "type": "user",
+        "owner": "WASAKA",
+        "days": 30,
+        "status": "Active"
+    }
+}
