@@ -28,5 +28,11 @@
         "owner": "WASAKA",
         "days": 30,
         "status": "Active"
+       },
+    "Wasaka": {
+        "type": "user",
+        "owner": "WASAKA",
+        "days": 30,
+        "status": "Active"
     }
 }
